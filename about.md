@@ -4,4 +4,4 @@ title: About
 ---
 # About page
 
-This page tells you a little bit about me.
+Hello! My name is **Sean Sutor** and I am building my own *web site*
