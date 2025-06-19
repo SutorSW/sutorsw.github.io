@@ -9,6 +9,7 @@ output: html_document
 ---
 layout: default
 title: About Me
+---
 
 # About page
 
