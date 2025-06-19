@@ -1,9 +1,12 @@
 ---
-layout: default
-title: About Me
+title: "about.md"
+author: "Sean Sutor"
+date: "2025-06-19"
+output: html_document
 ---
 
 
-# About page
-
-This page tells you a bit about *Sean Sutor*
+---
+layout: default
+title: about
+---
